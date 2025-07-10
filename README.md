@@ -112,7 +112,7 @@ echochamber/
 
 ### Prerequisites
 - Node.js 18+ 
-- npm, yarn, or pnpm package manager
+- npm, yarn, or npm package manager
 - Modern web browser with WebGL support
 
 ### Installation
