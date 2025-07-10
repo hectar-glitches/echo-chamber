@@ -353,14 +353,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Vercel** for excellent hosting and deployment
 - **OpenAI** for inspiration on AI-powered applications
 
-## 📞 Support
-
-- **Documentation**: [docs.echochamber.dev](https://docs.echochamber.dev)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/echochamber/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/echochamber/discussions)
-- **Email**: support@echochamber.dev
-- **Discord**: [Join our community](https://discord.gg/echochamber)
-
 ## 🌟 Showcase
 
 ### Screenshots
@@ -373,12 +365,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![Analytics Dashboard](screenshots/insights.png)
 *Comprehensive analytics and AI insights*
 
-### Demo Videos
-- [Full Feature Walkthrough](https://youtube.com/watch?v=demo)
-- [3D Palace Navigation](https://youtube.com/watch?v=palace)
-- [AI Character Creation](https://youtube.com/watch?v=characters)
-
----
 
 **Built with 🧠 by developers who believe memories deserve to live in beautiful spaces**
 
