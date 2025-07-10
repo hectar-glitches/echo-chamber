@@ -366,8 +366,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Comprehensive analytics and AI insights*
 
 
-**Built with 🧠 by developers who believe memories deserve to live in beautiful spaces**
-
 *Ready to build your memory palace? Start creating today!* ✨
 ```
 
