@@ -362,10 +362,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![Character Gallery](screenshots/gallery.png)
 *AI-generated characters with unique personalities*
 
-![Analytics Dashboard](screenshots/insights.png)
-*Comprehensive analytics and AI insights*
-
-
 *Ready to build your memory palace? Start creating today!* ✨
 ```
 
