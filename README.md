@@ -356,8 +356,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🌟 Showcase
 
 ### Screenshots
-![Memory Palace](screenshots/palace.png)
-*3D Memory Palace with floating artifacts and connection lines*
 ```
 
 This comprehensive README showcases EchoChamber as a sophisticated, well-documented project that demonstrates:
