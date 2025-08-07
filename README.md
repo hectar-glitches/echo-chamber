@@ -9,7 +9,7 @@
 
 ## ✨ Overview
 
-EchoChamber is a revolutionary personal memory management system that combines 3D visualization, AI processing, and gamified journaling. Instead of plain text notes, your thoughts become living artifacts in a beautiful memory palace, each with its own AI-generated character and personality.
+EchoChamber is a personal memory management system that combines 3D visualization, AI processing, and gamified journaling. Instead of plain text notes, your thoughts become living artifacts in a beautiful memory palace, each with its own AI-generated character and personality.
 
 ### 🎯 Key Concepts
 
