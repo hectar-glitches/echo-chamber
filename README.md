@@ -119,7 +119,7 @@ echochamber/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/echochamber.git
+git clone https://github.com/hectar-glitches/echochamber.git
 cd echochamber
 ```
 

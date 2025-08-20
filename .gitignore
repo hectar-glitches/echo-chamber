@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Next.js build output
+.next/
+
+# Static export output
+out/
+
+# Environment variables
+.env
+.env.local
+
+# Log files
+*.log
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Dependency locks (optional, keep if you want reproducible installs)
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
